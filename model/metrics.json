@@ -1,0 +1,7 @@
+{
+  "validation_auc": 0.873348596287844,
+  "best_f1_threshold": 0.20303030303030303,
+  "n_features_full": 324,
+  "n_features_selected": 100,
+  "n_train_rows": 150000
+}
