@@ -90,6 +90,10 @@ streamlit run app.py
 
 Then open the printed local URL (typically `http://localhost:8501`).
 
+## 🚀 Live Demo
+
+Try the live application here: **[Bank Loan Risk Assessment Dashboard](https://bank-loan-risk-goq2wobcb93fa5yfl5bfcb.streamlit.app/)**
+
 ## Dashboard pages
 
 - **Overview** — dataset summary, class balance, feature distributions,
